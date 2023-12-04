@@ -1,9 +1,90 @@
-<mxfile host="app.diagrams.net" modified="2023-11-30T13:48:34.564Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Safari/605.1.15" version="22.1.5" etag="OKZg6cDedb7ywmPTZoyc" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-04T20:21:46.014Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Safari/605.1.15" etag="KcIob08kGPrtMCmhPsP_" version="22.1.5" type="github">
   <diagram name="Page-1" id="GBvbI8wFCj357S28_C-m">
-    <mxGraphModel>
+    <mxGraphModel dx="954" dy="1816" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="U4efHT_6-B_aqJvIKM52-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U4efHT_6-B_aqJvIKM52-1" target="U4efHT_6-B_aqJvIKM52-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U4efHT_6-B_aqJvIKM52-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U4efHT_6-B_aqJvIKM52-1" target="U4efHT_6-B_aqJvIKM52-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U4efHT_6-B_aqJvIKM52-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U4efHT_6-B_aqJvIKM52-1" target="U4efHT_6-B_aqJvIKM52-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U4efHT_6-B_aqJvIKM52-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U4efHT_6-B_aqJvIKM52-1" target="U4efHT_6-B_aqJvIKM52-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U4efHT_6-B_aqJvIKM52-1" value="The AI &amp;nbsp;FUTURE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="270" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="U4efHT_6-B_aqJvIKM52-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U4efHT_6-B_aqJvIKM52-2" target="U4efHT_6-B_aqJvIKM52-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U4efHT_6-B_aqJvIKM52-2" value="MLM (Major language models)" style="ellipse;whiteSpace=wrap;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="580" y="280" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="U4efHT_6-B_aqJvIKM52-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U4efHT_6-B_aqJvIKM52-4" target="U4efHT_6-B_aqJvIKM52-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U4efHT_6-B_aqJvIKM52-4" value="Digital Assistants" style="ellipse;whiteSpace=wrap;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="360" y="100" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="U4efHT_6-B_aqJvIKM52-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U4efHT_6-B_aqJvIKM52-6" target="U4efHT_6-B_aqJvIKM52-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U4efHT_6-B_aqJvIKM52-6" value="Mass Automation" style="ellipse;whiteSpace=wrap;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="360" y="460" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="U4efHT_6-B_aqJvIKM52-8" value="Machine Learning" style="ellipse;whiteSpace=wrap;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="140" y="280" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="U4efHT_6-B_aqJvIKM52-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U4efHT_6-B_aqJvIKM52-12" target="U4efHT_6-B_aqJvIKM52-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U4efHT_6-B_aqJvIKM52-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U4efHT_6-B_aqJvIKM52-12" target="U4efHT_6-B_aqJvIKM52-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U4efHT_6-B_aqJvIKM52-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U4efHT_6-B_aqJvIKM52-12" target="U4efHT_6-B_aqJvIKM52-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U4efHT_6-B_aqJvIKM52-12" value="AI Models that can assist all jobs." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U4efHT_6-B_aqJvIKM52-18" value="Assited Work flow" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="200" y="10" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="U4efHT_6-B_aqJvIKM52-20" value="Work per unit time increase" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="340" y="-80" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="U4efHT_6-B_aqJvIKM52-22" value="Expert on call 24/7" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="480" y="10" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="U4efHT_6-B_aqJvIKM52-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U4efHT_6-B_aqJvIKM52-24" target="U4efHT_6-B_aqJvIKM52-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U4efHT_6-B_aqJvIKM52-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U4efHT_6-B_aqJvIKM52-24" target="U4efHT_6-B_aqJvIKM52-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U4efHT_6-B_aqJvIKM52-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U4efHT_6-B_aqJvIKM52-24" target="U4efHT_6-B_aqJvIKM52-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U4efHT_6-B_aqJvIKM52-24" value="AI Models trained on large data sets" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U4efHT_6-B_aqJvIKM52-26" value="Vast knowledge that surpasses human &lt;br&gt;levels" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="690" y="190" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="U4efHT_6-B_aqJvIKM52-28" value="" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="840" y="280" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="U4efHT_6-B_aqJvIKM52-30" value="" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="690" y="370" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="U4efHT_6-B_aqJvIKM52-32" value="" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="620" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
